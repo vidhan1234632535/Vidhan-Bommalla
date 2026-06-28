@@ -1,0 +1,6 @@
+{
+  "name": "Vidhan Bommalla Colorist Portfolio",
+  "description": "An interactive color grading portfolio and workspace for professional colorist Vidhan Bommalla, featuring look comparison sliders, a real-time grading playground, and an AI look design assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
